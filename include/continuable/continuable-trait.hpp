@@ -28,8 +28,8 @@
   SOFTWARE.
 **/
 
-#ifndef CONTINUABLE_TRAIT_HPP_INCLUDED__
-#define CONTINUABLE_TRAIT_HPP_INCLUDED__
+#ifndef CONTINUABLE_TRAIT_HPP_INCLUDED_
+#define CONTINUABLE_TRAIT_HPP_INCLUDED_
 
 #include <cstdint>
 
@@ -72,4 +72,4 @@ public:
 };
 } // namespace cti
 
-#endif // CONTINUABLE_TRAIT_HPP_INCLUDED__
+#endif // CONTINUABLE_TRAIT_HPP_INCLUDED_

@@ -28,8 +28,8 @@
   SOFTWARE.
 */
 
-#ifndef CONTINUABLE_DETAIL_API_HPP_INCLUDED__
-#define CONTINUABLE_DETAIL_API_HPP_INCLUDED__
+#ifndef CONTINUABLE_DETAIL_API_HPP_INCLUDED_
+#define CONTINUABLE_DETAIL_API_HPP_INCLUDED_
 
 /// Declares the continuable library namespace.
 ///
@@ -80,4 +80,4 @@ class continuable_base;
 namespace detail {}
 } // namespace cti
 
-#endif // CONTINUABLE_DETAIL_API_HPP_INCLUDED__
+#endif // CONTINUABLE_DETAIL_API_HPP_INCLUDED_
